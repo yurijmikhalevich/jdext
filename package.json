@@ -1,0 +1,14 @@
+{
+    "name": "jdext",
+    "version": "1.0.0",
+    "description": "JustDance saved video extractor",
+    "keywords": ["justdance", "jdtv", "just dance"],
+    "homepage": "https://github.com/39dotyt/jdext",
+    "bugs": "https://github.com/39dotyt/jdext/issues",
+    "license": "MIT",
+    "author": "Yurij Mikhalevich <0@39.yt> (https://39.yt/)",
+    "main": "./jdext.js",
+    "bin": "./jdext.js",
+    "repository": "39dotyt/jdext",
+    "engines": {"node": ">=6.10.0"}
+}
