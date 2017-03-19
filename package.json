@@ -12,7 +12,7 @@
     "repository": "39dotyt/jdext",
     "engines": {"node": ">=6.10.0"},
     "scripts": {
-        "release": "run -s release:*",
+        "release": "run-s release:*",
         "release:tag": "git tag v$npm_package_version",
         "release:publish": "npm publish",
         "release:pushtags": "git push --tags origin"
