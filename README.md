@@ -3,7 +3,7 @@ JustDance saved video extractor
 
 ## Disclaimer
 
-JustDance is a registerted trademark belonging of Ubisoft Entertainment in the US and/or other countries.
+JustDance is a registerted trademark of Ubisoft Entertainment in the US and/or other countries.
 Author has no relation to either Ubisoft or JustDance.
 This script was written and published for demonstration purposes. The author took no responsibilities and provides no waranties.
 The script is distributed under MIT license.
