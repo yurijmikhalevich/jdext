@@ -13,7 +13,7 @@ The script is distributed under MIT license.
 You should have [Node.JS and npm](https://nodejs.org/) installed.
 
 ```bash
-$ npm intall -g jdext
+$ npm install -g jdext
 ```
 
 ## Usage
